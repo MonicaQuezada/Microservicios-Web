@@ -1,7 +1,7 @@
 spring.jpa.defer-datasource-initialization: true
 #Application Configuration
 server:
-  port: 8093
+  port: 8094
   error:
     include-message: always
     include-binding-errors: always
