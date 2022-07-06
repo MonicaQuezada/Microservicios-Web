@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="097c48c0-4b95-4754-95c0-a3a330f4833a" name="Changes" comment="&quot;Registry-Service&quot;">
+    <list default="true" id="097c48c0-4b95-4754-95c0-a3a330f4833a" name="Changes" comment="&quot;Eureka&quot;">
+      <change afterPath="$PROJECT_DIR$/../registry-service/.idea/modules/registry-service.registry-service.test~1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-customer/service-customer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../service-customer/service-customer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-customer/service-customer/src/main/java/ucuenca/ejemplo/servicecustomer/ServiceCustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service-customer/service-customer/src/main/java/ucuenca/ejemplo/servicecustomer/ServiceCustomerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,7 @@
       <workItem from="1656453709539" duration="88000" />
       <workItem from="1656453944106" duration="48000" />
       <workItem from="1657048122852" duration="692000" />
+      <workItem from="1657051398616" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Cambio de puerto&quot;">
       <created>1656453765534</created>
@@ -68,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657048402389</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Eureka&quot;">
+      <created>1657051602700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657051602700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Cambio de puerto&quot;" />
     <MESSAGE value="&quot;Registry-Service&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Registry-Service&quot;" />
+    <MESSAGE value="&quot;Eureka&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Eureka&quot;" />
   </component>
 </project>
